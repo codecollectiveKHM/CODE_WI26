@@ -43,7 +43,7 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 |29 Oct|Variables, Loops & Conditions|Reader: Keeling, Baraka, Blackwell; Python for Everybody (P4E) Chs 1,2,3|?|
 |**TUE 03 Nov, 11.00** **Meet at Computer Lab, Aula Building** NOT 05 Nov|Skills & Tools: Critical AI Use|Reader: Ciston et al; P4E Chs 4,5,6,7 *by next week*|-|
 |12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|?|
-|**WED 18 Nov &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|?|
+|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|?|
 |26 Nov|Materials & (Data)Structures|Course Check-In; Reader: Nakamura; P4E Chs 8,9,10,11|?| 
 |03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; P4E Chs 12–16 as relevant|?|
 |*10 Dec*|*Open Co-Lab Co-Working*|**Schedule a Project Sprechstunde**|-|
@@ -102,7 +102,7 @@ Rather than a top-down lecture format, this seminar is organized from the bottom
 
 You'll sign up for us to workshop your project on a particular day. Be ready to bring in some code, no matter what stage your project is in. 
 
-Each session we will close read someone's code, troubleshoot any issues, support the project's development, talk through the ideas critically and creatively, but also the code itself. Talk about why something works or how it might work differently. Talk about the style, how it's organized, where it's going next, what tools it uses, and why. Maybe we use AI tools to support or not. We put our heads together as a group with different levels of experience and talk through its sociocultural, aesthetic and technical aspects.
+Each session we will close-read someone's code, troubleshoot any issues, support the project's development, talk through the ideas critically and creatively, but also the code itself. Talk about why something works or how it might work differently. Talk about the style, how it's organized, where it's going next, what tools it uses, and why. Maybe we use AI tools to support or not. We put our heads together as a group with different levels of experience and talk through its sociocultural, aesthetic and technical aspects.
 
 Rather than teach programming in a traditional, linear fashion (you'll have access to that in the sources provided), we will move conceptually based on what is relevant for each project, explaining code skills as we go. 
 
