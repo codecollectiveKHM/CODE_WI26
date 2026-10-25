@@ -40,19 +40,19 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 | SEMINAR DATE | TOPICS | MATERIALS DUE | WORKSHOPEE |
 |---|---|---|---|
 |22 Oct|Project Mapping & Pseudocoding|-|-|
-|29 Oct|Variables, Loops & Conditions|Reader: Keeling, Baraka, Blackwell; Python for Everybody (P4E) Chs 1,2,3|?|
+|29 Oct|Variables, Loops & Conditions|Reader: Keeling, Baraka, Blackwell; Python for Everybody (P4E) Chs 1,2,3|Alysha & Luka|
 |**TUE 03 Nov, 11.00** **Meet at Computer Lab, Aula Building** NOT 05 Nov|Skills & Tools: Critical AI Use|Reader: Ciston et al; P4E Chs 4,5,6,7 *by next week*|-|
-|12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|?|
-|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|?|
-|26 Nov|Materials & (Data)Structures|Course Check-In; Reader: Nakamura; P4E Chs 8,9,10,11|?| 
-|03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; P4E Chs 12–16 as relevant|?|
+|12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|Isabella & Amber|
+|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & [???]|
+|26 Nov|Materials & (Data)Structures|Course Check-In; Reader: Nakamura; P4E Chs 8,9,10,11|Niels N & Xi| 
+|03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; P4E Chs 12–16 as relevant|Young & Chao|
 |*10 Dec*|*Open Co-Lab Co-Working*|**Schedule a Project Sprechstunde**|-|
-|17 Dec|Logics & Ideologies|Reader: Steyerl, Amoore|?|
+|17 Dec|Logics & Ideologies|Reader: Steyerl, Amoore|Geonhee & Filiz|
 |*24 Dec*|*WINTERPAUSE*|-|-|
 |*31 Dec*|*WINTERPAUSE*|-|-|
-|07 Jan|Project dev & feedback sessions|(TBD based on student interests)|?|
-|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|?|
-|21 Jan|**Demo Day**: poster presentations & project demos|Final projects & research posters due|-|
+|07 Jan|Project dev & feedback sessions|(TBD based on student interests)|Yufeng & Yeobeen|
+|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|An*dre & [???]|
+|21 Jan|**Poster Day**: poster presentations & project demos|Final projects & research posters due|-|
 
 ### Special Events Schedule
 

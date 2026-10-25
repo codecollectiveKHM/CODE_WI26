@@ -1,5 +1,63 @@
 # Seminar Weekly Agenda
 
+
+## 02_Oct-29 Agenda 
+
+1. Check-ins
+1. Reading Discussion - Variables & Naming (Keeling, Baraka, Blackwell)
+1. Code Workshops: Alysha & Luka **Break in between?**
+1. Group Work
+    1. Pseudocode 
+    1. Software setup 
+    1. Review & Troubleshooting as needed
+1. Check-Out: 
+    1. Class is TUESDAY! 11am Computer Lab!
+    1. Reading
+
+---
+
+### Pseudocode 
+
+If you were going to instruct me to make a salad, what would you say? Where would you start, if I know nothing, if I've never made anything before. 
+
+Is it enough to tell me to chop vegetables? Would you say pick up knife, put knife down? 
+
+Would you write that over and over, or maybe write it once then say, do that X times? Like in a loop?
+
+Programming is based on a few simple concepts that we use outside of code, they're all instructions, i.e... **Control structures**
+
+- Calculations (add these or compare these, aka operands)
+- Decisions (this or that, this and that, if this/then that, booleans)
+- Loops (do this until I say stop)
+- Definitions (this is that, aka variables, the stuff you're doing all of the above to)
+- Data Structures (which hold multiples of the you're doing it to, e.g. an ingredients list)
+
+You can write your entire program in pseudocode (or plain language) before you begin to write it in any progrmaming language. 
+
+
+### Variables
+
+### Loops
+
+## Conditionals
+
+
+### Basic software setup for coding
+
+- A program to write code in (text editor)
+- A place to run the code (terminal)
+
+Can add more from there
+
+- Libraries, tools, development software, etc.
+
+See also [FYI: Getting Started Coding](fyi_getting-started.md)
+
+
+
+
+---
+
 ## 01_Oct-22 Agenda 
 
 1. Opening Check-In & Introductions
@@ -49,41 +107,3 @@ III. Try some tutorials, find examples
 IV. Only then start coding (one section at a time)
 
 ![](assets/ladymouthchart-marked.png)
-
-### Pseudocode 
-
-If you were going to instruct me to make a salad, what would you say? Where would you start, if I know nothing, if I've never made anything before. 
-
-Is it enough to tell me to chop vegetables? Would you say pick up knife, put knife down? 
-
-Would you write that over and over, or maybe write it once then say, do that X times? Like in a loop?
-
-Programming is based on a few simple concepts that we use outside of code, they're all instructions, i.e...
-
-**Control structures**
-
-- Calculations (add these or compare these, aka operands)
-- Decisions (this or that, this and that, if this/then that, booleans)
-- Loops (do this until I say stop)
-- Definitions (this is that, aka variables, the stuff you're doing all of the above to)
-- Data Structures (which hold multiples of the you're doing it to, e.g. an ingredients list)
-
-You can write your entire program in pseudocode (or plain language) before you begin to write it in any progrmaming language. 
-
-### Basic software setup for coding
-
-- A program to write code in (text editor)
-- A place to run the code (terminal)
-
-Can add more from there
-
-- Libraries, tools, development software, etc.
-
-See also [FYI: Getting Started Coding](fyi_getting-started.md)
-
-<!-- ## 02_Oct-29 Agenda  -->
-
-<!-- #### Sample code: ladymouth, sarah (2015-2016) -->
-
-<!-- ![](assets/ladymouth,%20AWP%202020-low.gif) -->
-
