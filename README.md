@@ -21,7 +21,7 @@ Together we will explore foundational techniques across programming languages, g
 
 ## Who
 
-**Prof. Dr. Sarah Ciston** (they/them), [sarah dot ciston at khm dot de](mailto:sarah.ciston@khm.de), Sprechstunden: Tues & Thur 14.00–15.50. Make an appointment: https://tinyurl.com/chatwsarah
+**Prof. Dr. Sarah Ciston** (they/them), [sarah dot ciston at khm dot de](mailto:sarah.ciston@khm.de), Sprechstunden: Tue & Thu 14.00–15.50. Make an appointment: https://tinyurl.com/chatwsarah
 
 **miguel marañas**, Student Assistant, [miguel dot rodriguez-bermudez at khm dot de](mailto:miguel.rodriguez-bermudez@khm.de)
 
@@ -41,25 +41,29 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 |---|---|---|---|
 |22 Oct|Project Mapping & Pseudocoding|-|-|
 |29 Oct|Variables, Loops & Conditions|Reader: Keeling, Baraka, Blackwell; Python for Everybody (P4E) Chs 1,2,3|Alysha & Luka|
-|**TUE 03 Nov, 11.00** **Meet at Computer Lab, Aula Building** NOT 05 Nov|Skills & Tools: Critical AI Use|Reader: Ciston et al; P4E Chs 4,5,6,7 *by next week*|-|
+|**change: nothing on Tue.** Thu 5 Nov|*Open Co-Lab Co-Working*|*(read toward next week)*|-|
 |12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|Isabella & Amber|
-|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & [???]|
-|26 Nov|Materials & (Data)Structures|Course Check-In; Reader: Nakamura; P4E Chs 8,9,10,11|Niels N & Xi| 
-|03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; P4E Chs 12–16 as relevant|Young & Chao|
+|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & [___]|
+|26 Nov|Skills & Tools: Critical AI Use *joined by 3D Composition Seminar*; Materials & (Data)Structures|Reader: Ciston et al., Nakamura; P4E Chs 8,9,10,11|Niels N & Xi| 
+|03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; Course Check-In; P4E Chs 12–16 as relevant|Young & Chao|
 |*10 Dec*|*Open Co-Lab Co-Working*|**Schedule a Project Sprechstunde**|-|
 |17 Dec|Logics & Ideologies|Reader: Steyerl, Amoore|Geonhee & Filiz|
 |*24 Dec*|*WINTERPAUSE*|-|-|
 |*31 Dec*|*WINTERPAUSE*|-|-|
 |07 Jan|Project dev & feedback sessions|(TBD based on student interests)|Yufeng & Yeobeen|
-|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|An*dre & [???]|
+|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|An*dre & [___]|
 |21 Jan|**Poster Day**: poster presentations & project demos|Final projects & research posters due|-|
+
+<!-- |**TUE 03 Nov, 11.00** **Meet at Computer Lab, Aula Building** NOT 05 Nov|Skills & Tools: Critical AI Use|Reader: Ciston et al; P4E Chs 4,5,6,7 *by next week*|-| -->
+<!-- |26 Nov|Materials & (Data)Structures *Visit from 3D Composition Seminar*|Course Check-In; Reader: Nakamura; P4E Chs 8,9,10,11|Niels N & Xi|  -->
+
 
 ### Special Events Schedule
 
 | CODESHIP EVENT | DETAILS | 
 |---|---|
-|Spooky Screening: *A Girl Walks Home Alone at Night*|Fri 30 Oct, 19-21h|
-|Tech Screening: *Ghost in the Machine* Documentary hosted by KISD|Tue 10 Nov, 17:30, KISD|
+|Spooky Screening: *A Girl Walks Home Alone at Night* Farsi (English subtitles)|Fri 30 Oct, 19-21h|
+|Tech Screening: [*Ghost in the Machine* Documentary hosted by KISD](https://k3.nrw/programm/filmvorfuehrung-ghost-in-the-machine) English|Tue 10 Nov, 17:30, KISD, Überring 40 Raum 11, kostenfrei|
 |Tokens Workshop with Ting (email Sarah if interested)|Fri 13 Nov, 13.00-16.00|
 |🦜 Stochastic Parrots Social Club|Tue 24 Nov, Time TBD|
 <!-- |More Tokens with Ting @ Code & Context, KISD|Thu 10 Dec, 15.00-18.00| -->
@@ -90,13 +94,19 @@ None! No particular experience is required. Any kind of field or background is h
 
 ### Seminar Format
 
-Rather than a top-down lecture format, this seminar is organized from the bottom up. It aims for students to direct their own course of learning with the instructor as coach or guide. The purpose of this approach is to provide meta-skills like independent investigation, research intuition, and broader skill-building, as well as a supportive environment for all types of learners to explore and take creative risks. 
+Rather than a top-down lecture, this seminar is organized from the bottom up. It aims for students to direct their own learning with the instructor as guide. The purpose of this approach is to provide meta-skills like independent investigation, research intuition, and broader skill-building, as well as a supportive environment for all types of learners to explore and take creative risks.
 
 1. **Opening Check-Ins**: Two minutes per person. *What are you working on, wondering, worrying about, or wowed by?*
-2. **Code Workshop**: Group engagement with sample or student code to analyze and offer feedback. Includes review of programming concepts.
-3. **Discussion**: Group engagement with the weekly reading or other shared material. Includes review of computing concepts.
+2. **Discussion**: Group engagement with the weekly reading or other shared material. Includes review of computing concepts.
+3. **Code Workshop**: Group engagement with sample or student code to analyze and offer feedback. Includes review of programming concepts.
 4. **Co-working, Troubleshooting, Short Lessons**: Self-directed, based on what came up during check-ins, workshop, and discussion.
 5. **Closing Check-In**: Wrap up and set plans for next meeting.
+
+#### READINGS & DISCUSSIONS
+
+Our seminar is oriented around projects and research you develop, built upon the readings and media we engage with and the conversations we have about them and your own practice. These readings are required and will support your projects and your course progress. 
+
+Our primary texts include a [READER](assets/CODE_WI26_CourseReader-Part1.pdf) that you can print or use as a PDF, which combines many selections around the course topics, as well as an [introductory text for programming in Python](https://www.py4e.com/book). It also comes as a set of [slides](https://www.py4e.com/lessons) or videos if you prefer, and it is translated into multiple languages. If your project is better suited to another programming language, such as [Javascript](https://eloquentjavascript.net/), or if you prefer learning by video or online exercises, we can support your progress in this instead. Please consult with us for equivalent chapters for your assignments.
 
 #### CODE WORKSHOPS 
 
@@ -106,19 +116,13 @@ Each session we will close-read someone's code, troubleshoot any issues, support
 
 Rather than teach programming in a traditional, linear fashion (you'll have access to that in the sources provided), we will move conceptually based on what is relevant for each project, explaining code skills as we go. 
 
-#### READINGS & DISCUSSIONS
-
-Our seminar is oriented around projects and research you develop, built upon the readings and media we engage with and the conversations we have about them and your own practice. These readings are required and will support your projects and your course progress. 
-
-Our primary texts include a [READER](assets/CODE_WI26_CourseReader-Part1.pdf) that you can print or use as a PDF, which combines many selections around the course topics, as well as an [introductory text for programming in Python](https://www.py4e.com/book). It also comes as a set of [slides](https://www.py4e.com/lessons) or videos if you prefer, and it is translated into multiple languages. If your project is better suited to another programming language, such as [Javascript](https://eloquentjavascript.net/), or if you prefer learning by video or online exercises, we can support your progress in this instead. Please consult with us for equivalent chapters for your assignments.
-
 ### Requirements for Schein/Certificate:
 
 Please complete all three of the following before requesting the KHM Schein for this seminar:
 
 1. Office Hours (Sprechstunde), one or more visits with Sarah about your course project
-2. Successful Research Poster (or other discussed format, e.g. term paper) presented on Demo Day
-3. Successful Project (or other discussed format, e.g. curation or collaboration) presented on Demo Day
+2. Successful Research Poster (or other discussed format, e.g. term paper) presented on Poster Day
+3. Successful Project (or other discussed format, e.g. curation or collaboration) presented on Poster Day
 
 ## Lab Guide & Community Commitments
 

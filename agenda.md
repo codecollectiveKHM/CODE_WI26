@@ -4,15 +4,27 @@
 ## 02_Oct-29 Agenda 
 
 1. Check-ins
+    1. FYI: Change of scheduling for next week, updated syllabus
+    1. FYI: End 15 min early
 1. Reading Discussion - Variables & Naming (Keeling, Baraka, Blackwell)
-1. Code Workshops: Alysha & Luka **Break in between?**
+    1. What is it arguing? How is it arguing it?
+    1. What parts interested/stood out to you? What surprised you? What confused you?
+    1. What felt most relevant to your practice?
+1. Code Workshops
+    1. Alysha & Luka (**Break in between?**)
+    1. Variables
+    1. Loops
+    1. Conditionals
+    1. Comments
+1. Break, if not before
 1. Group Work
-    1. Pseudocode 
-    1. Software setup 
+    1. Pseudocode to Code-Code
+    1. Software setup: Running Code, Using Github 
     1. Review & Troubleshooting as needed
-1. Check-Out: 
-    1. Class is TUESDAY! 11am Computer Lab!
-    1. Reading
+1. Check-Out: End early
+    1. Change of plans! Class *NOT* TUESDAY!
+    1. *What snippet of code will you build first?*
+    1. Next readings, do you have what you need and how will you find it?
 
 ---
 
@@ -26,9 +38,9 @@ Would you write that over and over, or maybe write it once then say, do that X t
 
 Programming is based on a few simple concepts that we use outside of code, they're all instructions, i.e... **Control structures**
 
-- Calculations (add these or compare these, aka operands)
-- Decisions (this or that, this and that, if this/then that, booleans)
-- Loops (do this until I say stop)
+- Calculations (add these or compare these, aka operands: + - * / )
+- Conditionals (Decisions) (this or that, this and that, if this/then that, booleans != > < )
+- Loops (do this until I say stop) (for loop, while loop)
 - Definitions (this is that, aka variables, the stuff you're doing all of the above to)
 - Data Structures (which hold multiples of the you're doing it to, e.g. an ingredients list)
 
@@ -39,7 +51,7 @@ You can write your entire program in pseudocode (or plain language) before you b
 
 ### Loops
 
-## Conditionals
+### Conditionals
 
 
 ### Basic software setup for coding
