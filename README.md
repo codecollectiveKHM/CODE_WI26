@@ -44,7 +44,7 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 |**change: nothing on Tue.** Thu 5 Nov|*Open Co-Lab Co-Working*|*(read toward next week)*|-|
 |12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|Isabella & Amber|
 |**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & [___]|
-|26 Nov|Skills & Tools: Critical AI Use *joined by 3D Composition Seminar*; Materials & (Data)Structures|Reader: Ciston et al., Nakamura; P4E Chs 8,9,10,11|Niels N & Xi| 
+|26 Nov|Skills & Tools: Critical AI Use *joined by 3D Composition Seminar*; Materials & (Data)Structures|Reader: Ciston et al., Nakamura; P4E Chs 8,9,10,11|Niels & Xi| 
 |03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; Course Check-In; P4E Chs 12–16 as relevant|Young & Chao|
 |*10 Dec*|*Open Co-Lab Co-Working*|**Schedule a Project Sprechstunde**|-|
 |17 Dec|Logics & Ideologies|Reader: Steyerl, Amoore|Geonhee & Filiz|

@@ -4,8 +4,9 @@
 ## 02_Oct-29 Agenda 
 
 1. Check-ins
-    1. FYI: Change of scheduling for next week, updated syllabus
+    1. FYI: Change of scheduling for next week, updated syllabus, 'co-working' days
     1. FYI: End 15 min early
+    1. Lab Guide & Card Access
 1. Reading Discussion - Variables & Naming (Keeling, Baraka, Blackwell)
     1. What is it arguing? How is it arguing it?
     1. What parts interested/stood out to you? What surprised you? What confused you?
