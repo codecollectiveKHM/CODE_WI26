@@ -1,5 +1,7 @@
 # Coding for Vibe Coders, Non-Coders and Everyone Else, Winter 2026 @ KHM
 
+[Join CODESHIP Signal group for updates & fun](https://signal.group/#CjQKIPcoaok7nOLy4mSwBpazZn7CxgfQPrqu81HgWTeRtI1ZEhCRp1x4Xbme9_X4yNf1iO4h)
+
 - [What](#-what-is-codeship-what-is-this-course)
 - [Where & When](#️-where--when)
     - [Special Events](#special-events-schedule)
@@ -43,7 +45,7 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 |29 Oct|Variables, Loops & Conditions|Reader: Keeling, Baraka, Blackwell; Python for Everybody (P4E) Chs 1,2,3|Alysha & Luka|
 |**change: nothing on Tue.** Thu 5 Nov|*Open Co-Lab Co-Working*|*(read toward next week)*|-|
 |12 Nov|Strings & Source(ry)|Reader: Chun, Yang, also [Yang (2022)](https://kayserifserif.place/work/coem/), [Yang 2023a](https://kayserifserif.place/regex-poetry-machine/), [Yang (2023b)](https://kayserifserif.place/work/proseplay/); P4E Chs 4,5,6,7|Isabella & Amber|
-|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & [___]|
+|**WED 18 Nov, 14:00-16:00 &** 19 Nov|Care & Risk (special seminars for *Wissenschaft gegen Faschismus* Aktionswoche, in collaboration with Dr. Katrin Kämpf’s seminar)|Reader: Morrison & Britton; P4E Chs 8,9,10,11 *by next week*|Daniel & Kylie|
 |26 Nov|Skills & Tools: Critical AI Use *joined by 3D Composition Seminar*; Materials & (Data)Structures|Reader: Ciston et al., Nakamura; P4E Chs 8,9,10,11|Niels & Xi| 
 |03 Dec|Databases & Power|Reader: Crawford & Joler, [calculatingempires.com](https://calculatingempires.com), Couldry & Mejias; Course Check-In; P4E Chs 12–16 as relevant|Young & Chao|
 |*10 Dec*|*Open Co-Lab Co-Working*|**Schedule a Project Sprechstunde**|-|
@@ -51,7 +53,7 @@ Seminars every Thursday 10.00-13.00 CET, 22 Oct–21 Jan @ CODESHIP KHM
 |*24 Dec*|*WINTERPAUSE*|-|-|
 |*31 Dec*|*WINTERPAUSE*|-|-|
 |07 Jan|Project dev & feedback sessions|(TBD based on student interests)|Yufeng & Yeobeen|
-|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|An*dre & [___]|
+|14 Jan|Project dev & feedback sessions|(TBD based on student interests)|An*dre & Abonti|
 |21 Jan|**Poster Day**: poster presentations & project demos|Final projects & research posters due|-|
 
 <!-- |**TUE 03 Nov, 11.00** **Meet at Computer Lab, Aula Building** NOT 05 Nov|Skills & Tools: Critical AI Use|Reader: Ciston et al; P4E Chs 4,5,6,7 *by next week*|-| -->
