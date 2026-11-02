@@ -1,5 +1,21 @@
 # Seminar Weekly Agenda
 
+## 12_Nov Agenda
+
+1. Check-ins
+    1. Temp check: Wonders, worries, wows, & works
+    1. FYIs
+    1. Follow-ups from last time: What is Python?
+1. Discussion: Strings & Sourc(ery)
+    1. Chun
+    1. Yang
+1. Code Workshop 
+    1. Isabella & Amber
+    1. *Break in between*
+    1. 
+1. Check-outs
+    1. FYIs
+    1. Garden/shelf (save for later)
 
 ## 02_Oct-29 Agenda 
 
@@ -65,8 +81,6 @@ Can add more from there
 - Libraries, tools, development software, etc.
 
 See also [FYI: Getting Started Coding](fyi_getting-started.md)
-
-
 
 
 ---
