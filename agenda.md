@@ -6,13 +6,14 @@
     1. Temp check: Wonders, worries, wows, & works
     1. FYIs
     1. Follow-ups from last time: What is Python?
+    1. Workshop: Ollama setup
 1. Discussion: Strings & Sourc(ery)
-    1. Chun
-    1. Yang
 1. Code Workshop 
     1. Isabella & Amber
     1. *Break in between*
-    1. 
+1. Coworking / Projects
+    1. Pseudocode to Code-Code
+    1. Software setup: Running Code, Using Github 
 1. Check-outs
     1. FYIs
     1. Garden/shelf (save for later)
@@ -35,8 +36,6 @@
     1. Comments
 1. Break, if not before
 1. Group Work
-    1. Pseudocode to Code-Code
-    1. Software setup: Running Code, Using Github 
     1. Review & Troubleshooting as needed
 1. Check-Out: End early
     1. Change of plans! Class *NOT* TUESDAY!
