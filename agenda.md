@@ -4,6 +4,7 @@
 
 1. Check-ins
     1. Temp check: Wonders, worries, wows, & works
+        1. [common.garden @ solitude](https://garden.akademie-solitude.de/)
     1. FYIs
     1. Follow-ups from last time: What is Python?
     1. Workshop: Ollama setup
