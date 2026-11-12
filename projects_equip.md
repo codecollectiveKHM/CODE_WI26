@@ -159,6 +159,7 @@ Post-feminism in punk and rock, 'invisible archives' photos from SPEX archive, '
 
 - __ €, monitors?
 - __ €, camera for eye tracking?
+- ___ e-ink screens
 
 #### Yufeng
 
