@@ -81,9 +81,9 @@ electronics as accessories
 
 #### Kylie
 
-performance with trained AI, spatialised sound
+live coding audiovisual performance & interactive installation using Strudel/SuperCollider and Hydra, code shamanism and mourning
 
-- __ €, 
+- __ €, somewhere to present this
 
 #### Juri
 
