@@ -19,12 +19,16 @@ Language models operate using embeddings: mathematical representations that proj
 6. Daniel
 7. Fabian
 8. Geonhee
+9. Yufeng
+10. Luka
 
 ### Setup instructions
 
 Please do this before the workshop on Friday:
 
 Download [ollama](https://ollama.com/download) on your machine. Install two models [gemma4:e2b](https://ollama.com/library/gemma4:e2b) and [embeddinggemma-2:440m](https://ollama.com/library/embeddinggemma-2:440m). You should be able to install it via terminal, or by using the search function directly with Ollama interface. 
+
+[Website for workshop exercises](https://liutingchun.com/workshops/conditions-for-emotions/)
 
 
 ## 2. Speaking the Token Language
