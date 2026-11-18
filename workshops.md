@@ -57,3 +57,4 @@ This workshop guides participants through tokenization: the underlying mechanism
 ## Waitlist
 - Geonhee
 - Alysha
+- Filiz

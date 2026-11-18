@@ -1,5 +1,23 @@
 # Seminar Weekly Agenda
 
+## 19_Nov Agenda
+
+1. Check-ins
+    1. Temp check
+    1. Recap Ting's workshop
+    1. P4E timings
+1. Discussion
+    1. Recap special session with Katrin's seminar
+    1. Morrison & Britton
+1. Code Workshop
+    1. Kylie & Daniel
+    1. **Break**
+1. Coworking / Projects
+    1. Github / Terminal / Python / Other
+    1. Group/Own Projects
+1. Checkouts & FYIs
+    1. 
+
 ## 12_Nov Agenda
 
 1. Check-ins
@@ -134,3 +152,20 @@ III. Try some tutorials, find examples
 IV. Only then start coding (one section at a time)
 
 ![](assets/ladymouthchart-marked.png)
+
+
+<!-- ## Template
+
+## Date Agenda
+
+1. Check-ins
+    1. FYIs/Followups
+1. Discussion
+    1. 
+1. Code Workshop
+    1. 
+    1. **Break**
+1. Coworking / Projects
+    1.
+1. Checkouts & FYIs
+    1.  -->
