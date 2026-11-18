@@ -22,8 +22,9 @@ thermal, sound, or camera tracking? how much detail, how much latency ok?
 
 - __ €, single board computer for installation? 
 - __ €, sensors, which kind?
-- __ €, telepromter monitor, 
-- __ €, camera, what quality, webcam or better? lidar? 
+- __ €, monitor, 
+- __ €, camera, what quality, webcam or better? lidar?
+- 
 
 #### Amber
 
@@ -81,9 +82,9 @@ electronics as accessories
 
 #### Kylie
 
-performance with trained AI, spatialised sound
+live coding audiovisual performance & interactive installation using Strudel/SuperCollider and Hydra, code shamanism and mourning
 
-- __ €, 
+- __ €, somewhere to present this
 
 #### Juri
 
