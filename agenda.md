@@ -1,5 +1,96 @@
 # Seminar Weekly Agenda
 
+## 26_Nov Agenda
+
+1. Check-ins > Send location reminder email
+    1. FYIs: update to reader, just Amoore not Steyerl on 17 Dec
+    1. Quick temp checks
+1. Code Workshop >> 1st Hour
+    1. Xi
+    1. Niels N
+1. Discussion 11:30: Critical AI Skills & Tools with 3D Composition Seminar
+    1. Sarah: how we/i work re this topic
+    1. Shu: What is a skill vs a tool
+    1. Tips & Approaches
+    1. Analog prompting workshop
+        1. write an analog prompt   
+        1. share & discuss: skill or tool? 
+        1. trade & rewrite together (save as templates for later use)
+1. Checkouts
+    1.  End 15 min early for dept meeting
+    1. 
+ 
+### Critical AI Skills & Tools @ Computer Lab
+
+How do we work so far around this topic?
+
+#### Problems
+
+- How are large models and agents shaping how you work? Do you use them as skills/tools? (Shu) What is a SKILL, what is a TOOL? 
+- Buggy, biased, boring code. Hard to revisit. Locks you in to vibe coding. 
+- softwares shaped by genAI tools, cultural technical pressure on the tools depending on the trend  
+- Even if you say I will DIY, the programs pressure you to use it or change how they work
+
+...There are ways to learn to navigate these spaces, critically
+
+#### Tips for critical prompting 
+
+>> Choose based on values, project goals, context
+
+    - What are the stakes for this use case?
+    - What are my research questions? 
+
+>> Choose whether or not to use (based on values and context)
+
+- Values: e.g. civilklaus, less evil, environmental impact, open source, digital sovereignity etc.
+
+- Context: 
+    - What are the boundaries of the task? 
+    - Who does this impact down the line?     
+    - Can a friend answer this question? 
+    - Can a normal search result answer?
+
+>> Choose how to use (based on project goals, priorities)
+
+- Project goals and priorities: 
+    - Meeting a deadline, conquering bureaucracy? 
+    - Expanding creative practice, engaging in a process?
+    - Finding resources, gathering info? 
+
+>> Choose which tools to use
+
+    - Where is the tool's dataset from, what's in it, for what purpose was it originally designed? (sometimes it's hard to find out but possible!)
+    - Open source? Environmental impact? Author and artist rights? Built on datasets scraped from work like our own
+    => Purpose-fit
+    => Get to know details about many options as possible, via datasheets and whitepapers
+
+>> Choose for which parts to use
+    - Break down into modular parts with 'pseudocode' 
+    - Make a project map to understand what you know and don't know 
+    => more efficient prompting and customizable design 
+    => creative agency and responsibility
+
+#### analog prompt workshop:   
+
+- write a prompt on paper for your project   
+- share & discuss: skill or tool? mix up/put in a hat  
+- trade & rewrite together (using kinds of prompts discussed below)
+- (save as templates for later use) 
+
+#### Kinds of prompts (Skill vs Tool...)
+
+- write an app/project for you
+- review sections of code, to troubleshoot or ask questions about
+- explain concepts from programming, computation, or modeling that you want to understand better
+- give code examples to help illustrate those concepts
+- compose prompts for creative coding exercises
+
+(from a study of how computer science students used ChatGPT)
+
+[Critical AI Tutorials](https://p5js.org/tutorials/criticalAI1-chatting-with-about-code/)
+
+
+
 ## 19_Nov Agenda
 
 1. Check-ins
